@@ -1,0 +1,23 @@
+  body
+  {
+    color: white;
+    background: rgb(238, 2, 203);
+  }
+  
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  
+  .nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+  {
+    color: yellow;
+  }
+
+  #camera 
+  {
+    border: 2px dashed black;/*isso adiciona uma borda preta e pontilhada de 2px para div.*/
+    width: 350px;
+    height: 300px; 
+  }
